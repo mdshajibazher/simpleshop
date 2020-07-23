@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content=" ">
+    <meta name="keywords" content=" ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="author" content="Mosaddek">
+
+    <!--favicon and touch icon-->
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicon-114x114.png">
+
+    <!--site title-->
+    <title>Simple Shop</title>
+    <!--web font-->
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900" rel="stylesheet">
+
+    <!--bootstrap-->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--icon font-->
+    <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/vendor/bicon/css/bicon.css" rel="stylesheet">
+
+    <!--woocommerce css-->
+    <!--<link rel="stylesheet" href="assets/css/woocommerce-prev.css">-->
+
+    <link rel="stylesheet" href="assets/css/woocommerce-layouts.css">
+    <link rel='stylesheet' id='woocommerce-smallscreen-css'  href='assets/css/woocommerce-small-screen.css' type='text/css' media='only screen and (max-width: 768px)' />
+    <link rel="stylesheet" href="assets/css/woocommerce.css">
+
+
+    <!--custom css-->
+    <link href="assets/css/main.css" rel="stylesheet">
+
+</head>
+<body class="woocommerce single single-product">
+
+<!--header start-->
+<header class="app-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="navbar navbar-expand-lg mainmenu">
+                    <!--logo-->
+                    <a class="navbar-brand mr-5 text-dark float-left" href="index.html">
+                        <img class="" src="assets/img/logo.png" srcset="assets/img/logo@2x.png 2x" alt=""/>
+                    </a>
+                    <!--logo-->
+
+                    <!--responsive toggle icon-->
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon">
+                                <i class="fa fa-bars"> </i>
+                            </span>
+                    </button>
+                    <!--responsive toggle icon-->
+
+                    <!--search start-->
+                    <div id="form-search" class="form-search">
+                        <div class="input-group">
+                            <input type="search" class="form-control" placeholder="Search for...">
+                            <span class="input-group-btn">
+                                <button id="form-search-close-btn" class="btn" type="button">
+                                    <span class="svg svg--cross">
+                                        <svg class="svg__icon" width="32px" height="32px" viewBox="0 0 32 32">
+                                            <path d="M16.7,16L31.9,0.9c0.2-0.2,0.2-0.5,0-0.7s-0.5-0.2-0.7,0L16,15.3L0.9,0.1C0.7,0,0.3,0,0.1,0.1S0,0.7,0.1,0.9L15.3,16
+                                            L0.1,31.1c-0.2,0.2-0.2,0.5,0,0.7C0.2,32,0.4,32,0.5,32s0.3,0,0.4-0.1L16,16.7l15.1,15.1c0.1,0.1,0.2,0.1,0.4,0.1s0.3,0,0.4-0.1
+                                            c0.2-0.2,0.2-0.5,0-0.7L16.7,16z"/>
+                                        </svg>
+                                    </span>
+                                </button>
+                            </span>
+                        </div>
+                    </div>
+                    <!--search end-->
+                    <!--nav link-->
+                    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+                        <ul id="menu" class="navbar-nav ml-auto">
+                            <li class=""><a href="index.html" class="" >Home</a></li>
+                            <li class=""><a href="product-list-filter.html" class="" >Shop List</a></li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop</a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown">
+                                        <a class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Product Single Layouts</a>
+                                        <ul class="dropdown-menu" >
+                                            <li><a href="product-single-on-sale.html">Product Single - On Sale </a></li>
+                                            <li><a href="product-single-group.html">Product Single - Group</a></li>
+                                            <li><a href="product-single-variable.html">Product Single - Variable</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Shop Pages</a>
+                                        <ul class="dropdown-menu" >
+                                            <li><a href="cart.html">Cart </a></li>
+                                            <li><a href="checkout.html">Checkout </a></li>
+                                            <li><a href="order-process.html">Order Process </a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">My Account</a>
+                                        <ul class="dropdown-menu" >
+                                            <li><a href="my-account-dashbord.html">My Account - Dashboard </a></li>
+                                            <li><a href="my-account-order.html">My Account - Order </a></li>
+                                            <li><a href="my-account-downloads.html">My Account - Downloads </a></li>
+                                            <li><a href="my-account-ac-details.html">My Account - Account Details </a></li>
+                                            <li><a href="login-registration.html">Login / Registration </a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="about-us.html">About Us</a></li>
+                                    <li><a href="error.html">404 Error</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="#" class="" id="search-icon"><i class="fa fa-search"></i></a></li>
+                            <li><a href="#" class="" ><i class="fa fa-user"></i></a></li>
+                            <!--<li><a href="#" class="" ><i class="fa fa-shopping-basket"></i></a></li>-->
+                            <li class="dropdown mini-cart">
+                                <a class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-shopping-basket"></i><span class="cart-quantity-highlighter">2</span></a>
+                                <ul class="dropdown-menu dropdown-menu-right widget_shopping_cart_content woocommerce-mini-cart cart_list product_list_widget ">
+                                    <li class="woocommerce-mini-cart-item mini_cart_item">
+                                        <a href="#" class="remove remove_from_cart_button" aria-label="Remove this item" data-product_id="180" data-cart_item_key="045117b0e0a11a242b9765e79cbf113f" data-product_sku="9015-DF-1">×</a>													<a class="mini_cart_item-image" href="https://stockie.colabr.io/demo1/shop/gosta-leather-chair/">
+                                        <img src="assets/img/p1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="">							</a>
+                                        <div class="mini_cart_item-desc">
+                                            <a class="font-titles" href="#">Trendy Cloth</a>
+                                            <span class="woo-c_product_category">
+                                                    <a href="assets/img/p1.jpg" rel="tag">Cloth</a>
+                                                </span>
+
+                                            <span class="quantity">1 × <span class="woocs_special_price_code"><span class="woocommerce-Price-amount amount">56.00<span class="woocommerce-Price-currencySymbol">$</span></span></span></span>
+                                        </div>
+                                    </li>
+                                    <li class="woocommerce-mini-cart-item mini_cart_item">
+                                        <a href="#" class="remove remove_from_cart_button" aria-label="Remove this item" data-product_id="18907" data-cart_item_key="91726a6e8c9faa2bb5f26d442a59c203" data-product_sku="9015-DF-2">×</a>													<a class="mini_cart_item-image" href="https://stockie.colabr.io/demo1/shop/stoppade-plastic-chair/">
+                                        <img src="assets/img/p2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="">
+                                    </a>
+                                        <div class="mini_cart_item-desc">
+                                            <a class="font-titles" href="#">Warm Sweater</a>
+                                            <span class="woo-c_product_category">
+                                                    <a href="#" rel="tag">Stools</a></span>
+                                            <span class="quantity">1 × <span class="woocs_special_price_code"><span class="woocommerce-Price-amount amount">97.00<span class="woocommerce-Price-currencySymbol">$</span></span></span></span>
+                                        </div>
+                                    </li>
+                                    <li class="woocommerce-mini-cart-item mini_cart_item">
+                                        <div class="woocomerce-mini-cart__container">
+                                            <p class="woocommerce-mini-cart__total total"><strong>Subtotal:</strong> <span class="woocs_special_price_code"><span class="woocommerce-Price-amount amount">153.00<span class="woocommerce-Price-currencySymbol">$</span></span></span></p>
+                                            <p class="woocommerce-mini-cart__buttons buttons">
+                                                <a href="#" class="button wc-forward">View cart</a>
+                                                <a href="#" class="button checkout wc-forward">Checkout</a>
+                                            </p>
+                                        </div>
+                                    </li>
+                                </ul>
+
+                            </li>
+                        </ul>
+
+                    </div>
+                    <!--nav link-->
+
+
+                </nav>
+
+
+
+            </div>
+        </div>
+    </div>
+
+</header>
+<!--header end-->
+
+<!--hero section start-->
+<section class="page-title">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <nav class="woocommerce-breadcrumb">
+                    <a href="#">Home</a>
+                    <span class="breadcrumb-separator"> / </span>
+                    <a href="#">Accessories</a>
+                    <span class="breadcrumb-separator"> / </span>Beanie
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!--hero section end-->
+
+<main class="site-main">
+    <!--shop category start-->
+    <section class="space-3">
+        <div class="container sm-center">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="product-14" class="post-14 product type-product status-publish has-post-thumbnail product_cat-accessories first instock sale shipping-taxable purchasable product-type-simple">
+
+                        <span class="onsale">Sale!</span>
+                        <div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" >
+                            <a href="#" class="woocommerce-product-gallery__trigger">
+                                <img draggable="false" class="emoji" alt="🔍" src="https://s.w.org/images/core/emoji/11/svg/1f50d.svg"></a>
+                            <figure class="woocommerce-product-gallery__wrapper">
+                                <div data-thumb="assets/img/pc1.jpg" class="woocommerce-product-gallery__image" >
+                                    <a href="assets/img/pc1.jpg">
+                                        <img width="600" height="600" src="assets/img/pc1.jpg" class="wp-post-image" alt="" title="beanie-2.jpg" data-caption="" data-src="assets/img/pc1.jpg" data-large_image="assets/img/pc1.jpg" data-large_image_width="801" data-large_image_height="801" srcset="assets/img/pc1.jpg 600w, assets/img/pc1.jpg 150w, assets/img/pc1.jpg 300w, assets/img/pc1.jpg 768w, assets/img/pc1.jpg 100w, assets/img/pc1.jpg 801w" sizes="(max-width: 600px) 100vw, 600px">
+                                    </a>
+                                    <!--<img role="presentation" alt="" src="assets/img/pc1.jpg" class="zoomImg" style="position: absolute; top: -53.5876px; left: -76.8026px; opacity: 0; width: 801px; height: 801px; border: none; max-width: none; max-height: none;">-->
+                                </div>
+                            </figure>
+                        </div>
+
+                        <div class="summary entry-summary">
+                            <h1 class="product_title entry-title">Leather Sports Shoe </h1>
+                            <p class="price"><del>
+                                    <span class="woocommerce-Price-amount amount">
+                                        <span class="woocommerce-Price-currencySymbol">৳&nbsp;</span>20.00</span></del>
+                                <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">৳&nbsp;</span>18.00</span></ins>
+                            </p>
+                            <div class="woocommerce-product-details__short-description">
+                                <p>This is a simple product.</p>
+                            </div>
+
+                            <form class="cart" action="#" method="post" enctype="multipart/form-data">
+                                <div class="quantity">
+                                    <label class="screen-reader-text" for="quantity_5cb6f2a5624d1">Quantity</label>
+                                    <input type="number" id="quantity_5cb6f2a5624d1" class="input-text qty text" step="1" min="1" max="" name="quantity" value="1" title="Qty" size="4" pattern="[0-9]*" inputmode="numeric" aria-labelledby="Beanie quantity">
+                                </div>
+                                <button type="submit" name="add-to-cart" value="14" class="single_add_to_cart_button button alt">Add to cart</button>
+                            </form>
+
+                            <div class="product_meta">
+                                <span class="sku_wrapper">SKU: <span class="sku">woo-beanie</span></span>
+                                <span class="posted_in">Category: <a href="#" rel="tag">Accessories</a></span>
+                            </div>
+                        </div>
+
+
+                        <div class="woocommerce-tabs wc-tabs-wrapper">
+                            <ul class="tabs wc-tabs" role="tablist">
+                                <li class="description_tab active" id="tab-title-description" role="tab" aria-controls="tab-description">
+                                    <a href="#tab-description">Description</a>
+                                </li>
+                                <li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
+                                    <a href="#tab-additional_information">Additional information</a>
+                                </li>
+                                <li class="reviews_tab" id="tab-title-reviews" role="tab" aria-controls="tab-reviews">
+                                    <a href="#tab-reviews">Reviews (0)</a>
+                                </li>
+                            </ul>
+                            <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description" style="display: block;">
+
+                                <h2>Description</h2>
+
+                                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+                            </div>
+                            <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information" style="display: none;">
+
+                                <h2>Additional information</h2>
+
+                                <table class="shop_attributes">
+
+                                    <tbody><tr>
+                                        <th>Dimensions</th>
+                                        <td class="product_dimensions">4 × 5 × 0.5 in</td>
+                                    </tr>
+
+                                    <tr>
+                                        <th>Color</th>
+                                        <td><p>Red</p>
+                                        </td>
+                                    </tr>
+                                    </tbody></table>
+                            </div>
+                            <div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews" style="display: none;">
+                                <div id="reviews" class="woocommerce-Reviews">
+                                    <div id="comments">
+                                        <h2 class="woocommerce-Reviews-title">Reviews</h2>
+                                        <p class="woocommerce-noreviews">There are no reviews yet.</p>
+                                    </div>
+
+                                    <div id="review_form_wrapper">
+                                        <div id="review_form">
+                                            <div id="respond" class="comment-respond">
+                                                <span id="reply-title" class="comment-reply-title">Be the first to review “Beanie” <small><a rel="nofollow" id="cancel-comment-reply-link" href="/product/beanie/#respond" style="display:none;">Cancel reply</a></small></span>			<form action="http://Simple Shoplocal/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate="">
+                                                <p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><div class="comment-form-rating"><label for="rating">Your rating</label><p class="stars"><span><a class="star-1" href="#">1</a><a class="star-2" href="#">2</a><a class="star-3" href="#">3</a><a class="star-4" href="#">4</a><a class="star-5" href="#">5</a></span></p><select name="rating" id="rating" required="" style="display: none;">
+                                                <option value="">Rate…</option>
+                                                <option value="5">Perfect</option>
+                                                <option value="4">Good</option>
+                                                <option value="3">Average</option>
+                                                <option value="2">Not that bad</option>
+                                                <option value="1">Very poor</option>
+                                            </select></div><p class="comment-form-comment"><label for="comment">Your review&nbsp;<span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" required=""></textarea></p><p class="comment-form-author"><label for="author">Name&nbsp;<span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" required=""></p>
+                                                <p class="comment-form-email"><label for="email">Email&nbsp;<span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" required=""></p>
+                                                <p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit"> <input type="hidden" name="comment_post_ID" value="14" id="comment_post_ID">
+                                                    <input type="hidden" name="comment_parent" id="comment_parent" value="0">
+                                                </p>
+                                            </form>
+                                            </div><!-- #respond -->
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <section class="related products">
+
+                            <h2>Related products</h2>
+
+                            <ul class="products columns-3">
+                                <li class="product">
+                                    <div class="product-wrap">
+                                        <a href="#" class="">
+                                            <img src="assets/img/p10.jpg" alt="">
+                                        </a>
+                                        <a href="#" class="button product_type_simple add_to_cart_button ajax_add_to_cart">
+                                            <i class="fa fa-shopping-basket"></i>
+                                        </a>
+                                    </div>
+                                    <div class="woocommerce-product-title-wrap">
+                                        <h2 class="woocommerce-loop-product__title">
+                                            <a href="#">Stitched leather sports shoe</a>
+                                        </h2>
+                                        <a href="#" class="wish-list"><i class="fa fa-heart-o"></i></a>
+                                    </div>
+                                    <span class="price">
+                                    <span class="woocommerce-Price-amount amount">
+                                        <span class="woocommerce-Price-currencySymbol">$</span> 18.00
+                                    </span>
+                                </span>
+                                </li>
+                                <li class="product">
+                                    <div class="product-wrap">
+                                        <a href="#" class="">
+                                            <img src="assets/img/p11.jpg" alt="">
+                                        </a>
+                                        <a href="#" class="button product_type_simple add_to_cart_button ajax_add_to_cart">
+                                            <i class="fa fa-shopping-basket"></i>
+                                        </a>
+                                    </div>
+                                    <div class="woocommerce-product-title-wrap">
+                                        <h2 class="woocommerce-loop-product__title">
+                                            <a href="#">Stitched leather sports shoe</a>
+                                        </h2>
+                                        <a href="#" class="wish-list"><i class="fa fa-heart-o"></i></a>
+                                    </div>
+                                    <span class="price">
+                                    <span class="woocommerce-Price-amount amount">
+                                        <span class="woocommerce-Price-currencySymbol">$</span> 18.00
+                                    </span>
+                                </span>
+                                </li>
+                                <li class="product last">
+                                    <div class="product-wrap">
+                                        <a href="#" class="">
+                                            <img src="assets/img/p12.jpg" alt="">
+                                        </a>
+                                        <a href="#" class="button product_type_simple add_to_cart_button ajax_add_to_cart">
+                                            <i class="fa fa-shopping-basket"></i>
+                                        </a>
+                                    </div>
+                                    <div class="woocommerce-product-title-wrap">
+                                        <h2 class="woocommerce-loop-product__title">
+                                            <a href="#">Stitched leather sports shoe</a>
+                                        </h2>
+                                        <a href="#" class="wish-list"><i class="fa fa-heart-o"></i></a>
+                                    </div>
+                                    <span class="price">
+                                    <span class="woocommerce-Price-amount amount">
+                                        <span class="woocommerce-Price-currencySymbol">$</span> 18.00
+                                    </span>
+                                </span>
+                                </li>
+                            </ul>
+
+                        </section>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!--shop category end-->
+</main>
+
+<footer class="space-2 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-4 mb-md-0 mb-4">
+                <img class="footer-logo" src="assets/img/logo.png" srcset="assets/img/logo@2x.png 2x" alt="">
+            </div>
+            <div class="col-md-4  mb-md-0 mb-4">
+                <div class="social-links">
+                    <a href="#"><i class="fa fa-facebook"></i></a>
+                    <a href="#"><i class="fa fa-twitter"></i></a>
+                    <a href="#"><i class="fa fa-google-plus"></i></a>
+                    <a href="#"><i class="fa fa-youtube"></i></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <p class="mb-0">Built with Simple Shop & WooCommerce</p>
+                <p class="mb-0">© YourCompany 2019</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!--scripts-->
+<script src="assets/vendor/jquery.min.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/vendor/popper.min.js"></script>
+
+<!--init scripts-->
+<script src="assets/js/scripts.js"></script>
+
+</body>
+</html>

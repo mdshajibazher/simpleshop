@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a087fcdd-5132-4396-b30b-0ea2ac542588" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-386">
+              <caret line="637" column="26" lean-forward="true" selection-start-line="637" selection-start-column="26" selection-end-line="637" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#4;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#5;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/product-single-on-sale.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8468">
+              <caret line="292" column="303" selection-start-line="292" selection-start-column="303" selection-end-line="292" selection-end-column="303" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/product-single-variable.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9686">
+              <caret line="334" column="303" selection-start-line="334" selection-start-column="303" selection-end-line="334" selection-end-column="303" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/product-single-group.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9338">
+              <caret line="322" column="303" selection-start-line="322" selection-start-column="303" selection-end-line="322" selection-end-column="303" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/assets/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3016">
+              <caret line="105" selection-end-line="105" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/product-list-filter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19082">
+              <caret line="658" column="22" selection-start-line="658" selection-start-column="22" selection-end-line="658" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/my-account-ac-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4785">
+              <caret line="318" selection-start-line="318" selection-end-line="318" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/contact-us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3654">
+              <caret line="126" column="70" selection-start-line="126" selection-start-column="70" selection-end-line="126" selection-end-column="70" />
+              <folding>
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../simpleshop/my-account-address.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5278">
+              <caret line="182" column="26" selection-start-line="182" selection-start-column="26" selection-end-line="182" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.woocommerce div.product div.images .flex-control-thumbs li</find>
+      <find>margin-right: 14.2857142857%;</find>
+      <find>product cate</find>
+      <find>.single-product div.product .woocommerce-product-gallery .flex-control-thumbs</find>
+      <find>table.variations</find>
+      <find>border-left: none;</find>
+      <find>checkout woocommerce-checkout</find>
+      <find>.woocommerce-error, .woocommerce-info, .woocommerce-message</find>
+      <find>Billing details</find>
+      <find>woocommerce-billing-fields</find>
+      <find>order_review_heading</find>
+      <find>me@hasin.me</find>
+      <find>.cart-collaterals .cart_totals .shop_table th</find>
+      <find>https://ha.motologgers.com/my-account/view-order/64/</find>
+      <find>$window</find>
+      <find>.form-search .input-group-btn .btn</find>
+      <find>page-title</find>
+      <find>map</find>
+      <find>.form-control</find>
+      <find>WooFront</find>
+      <find>ul.products li.product</find>
+      <find>&lt;li class=&quot;dropdown mini-cart&quot;&gt;</find>
+      <find>bread</find>
+      <find>&lt;title&gt;Ipsa.&lt;/title&gt;</find>
+      <find>&lt;p class=&quot;mb-0&quot;&gt;Built with ipsa &amp; WooCommerce&lt;/p&gt;</find>
+      <find>&lt;p class=&quot;mb-0&quot;&gt;© ipsa 2019&lt;/p&gt;</find>
+      <find>ipsa</find>
+      <find>Mosaddek</find>
+      <find>&lt;meta name=&quot;author&quot; content=&quot;Mosaddek&quot;&gt;</find>
+      <find>Mosadd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$base-font-name</replace>
+      <replace>products</replace>
+      <replace>ff5f5f</replace>
+      <replace>test@mail.com</replace>
+      <replace>#</replace>
+      <replace>ipsa</replace>
+      <replace>&lt;li class=&quot;dropdown mini-cart&quot; style=&quot;display: none;&quot;&gt;</replace>
+      <replace>&lt;title&gt;SimpleShop.&lt;/title&gt;</replace>
+      <replace>&lt;p class=&quot;mb-0&quot;&gt;Built with SimpleShop&lt;/p&gt;</replace>
+      <replace>&lt;p class=&quot;mb-0&quot;&gt;© YourCompany 2019&lt;/p&gt;</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/assets/dev/sass</dir>
+      <dir>$PROJECT_DIR$/../simpleshop</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/dev/sass/_banner-static.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/woocommerce-layout.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_services.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_typography.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_contact.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_utilities.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_woocommerce-f.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/woocommerce-smallscreen.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_woocommerce-ff.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_footer.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/main.scss" />
+        <option value="$PROJECT_DIR$/product-single.html" />
+        <option value="$PROJECT_DIR$/product-list.html" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_woocommerce.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_responsive.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_header.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_section.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_buttons.scss" />
+        <option value="$PROJECT_DIR$/assets/dev/sass/_woocommerce-custom.scss" />
+        <option value="$PROJECT_DIR$/about-us.html" />
+        <option value="$PROJECT_DIR$/cart.html" />
+        <option value="$PROJECT_DIR$/checkout.html" />
+        <option value="$PROJECT_DIR$/error.html" />
+        <option value="$PROJECT_DIR$/login-registration.html" />
+        <option value="$PROJECT_DIR$/my-account-ac-details.html" />
+        <option value="$PROJECT_DIR$/my-account-address.html" />
+        <option value="$PROJECT_DIR$/my-account-dashbord.html" />
+        <option value="$PROJECT_DIR$/my-account-downloads.html" />
+        <option value="$PROJECT_DIR$/my-account-order.html" />
+        <option value="$PROJECT_DIR$/order-process.html" />
+        <option value="$PROJECT_DIR$/product-list-filter.html" />
+        <option value="$PROJECT_DIR$/product-single-group.html" />
+        <option value="$PROJECT_DIR$/product-single-on-sale.html" />
+        <option value="$PROJECT_DIR$/product-single-variable.html" />
+        <option value="$PROJECT_DIR$/contact-us.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.css" />
+        <option value="$PROJECT_DIR$/assets/css/woocommerce.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/../simpleshop/index.html" />
+        <option value="$PROJECT_DIR$/../simpleshop/about-us.html" />
+        <option value="$PROJECT_DIR$/../simpleshop/product-single-on-sale.html" />
+        <option value="$PROJECT_DIR$/../simpleshop/product-single-variable.html" />
+        <option value="$PROJECT_DIR$/../simpleshop/product-single-group.html" />
+        <option value="$PROJECT_DIR$/../simpleshop/assets/css/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="simpleshop-html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="simpleshop-html" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/../simpleshop/node_modules/gulp" />
+    <property name="list.type.of.created.stylesheet" value="PLAIN_TEXT" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/dev/sass" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a087fcdd-5132-4396-b30b-0ea2ac542588" name="Default" comment="" />
+      <created>1554277063705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554277063705</updated>
+      <workItem from="1554277064859" duration="21838000" />
+      <workItem from="1554732251420" duration="159000" />
+      <workItem from="1554801968908" duration="18766000" />
+      <workItem from="1556446167129" duration="7314000" />
+      <workItem from="1560230526855" duration="20129000" />
+      <workItem from="1560597235461" duration="12955000" />
+      <workItem from="1560892291246" duration="12289000" />
+      <workItem from="1561204572188" duration="2272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="97050000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Gulp" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.124068156" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3269639" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Database" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Gulp" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.12300319" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32742155" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="right" id="Database" order="0" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/dev/sass/_blog.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/dev/sass/_services.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/dev/sass/_utilities.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/dev/sass/_woocommerce-f.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/dev/sass/woocommerce-smallscreen.scss" />
+    <entry file="file://$PROJECT_DIR$/assets/dev/sass/woocommerce-layout.scss" />
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/vendor/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="3" column="3888" selection-start-line="3" selection-start-column="3888" selection-end-line="3" selection-end-column="3888" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/img/pc1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="12" selection-start-line="7" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-single.html" />
+    <entry file="file://$PROJECT_DIR$/assets/dev/sass/_woocommerce.scss" />
+    <entry file="file://$PROJECT_DIR$/product-list.html" />
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_responsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/visible.js" />
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/vendor/bootstrap/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_banner-static.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="258" column="1" lean-forward="true" selection-start-line="258" selection-start-column="1" selection-end-line="258" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="238" column="27" selection-start-line="238" selection-start-column="27" selection-end-line="238" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_contact.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/vendor/google-map-init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/checkout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="697" selection-start-line="697" selection-end-line="697" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#0;n#span#0;n#p#3;n#div#0;n#div#0;n#div#0;n#div#0;n#form#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#select#0;n#span#0;n#p#7;n#div#0;n#div#0;n#div#0;n#div#0;n#form#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#form#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/login-registration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/my-account-dashbord.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="265" selection-start-line="265" selection-end-line="265" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/my-account-downloads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="271" selection-start-line="271" selection-end-line="271" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/my-account-order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/order-process.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4967">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="2327" column="38" selection-start-line="2327" selection-start-column="16" selection-end-line="2327" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/dev/sass/_woocommerce-custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="448" selection-start-line="448" selection-end-line="448" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="263" column="19" selection-start-line="263" selection-start-column="19" selection-end-line="263" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/css/woocommerce.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71365">
+          <caret line="288" selection-end-line="2828" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1103">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/img/logo@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-386">
+          <caret line="637" column="26" lean-forward="true" selection-start-line="637" selection-start-column="26" selection-end-line="637" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#5;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/product-single-on-sale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8468">
+          <caret line="292" column="303" selection-start-line="292" selection-start-column="303" selection-end-line="292" selection-end-column="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/product-single-variable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9686">
+          <caret line="334" column="303" selection-start-line="334" selection-start-column="303" selection-end-line="334" selection-end-column="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/product-single-group.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9338">
+          <caret line="322" column="303" selection-start-line="322" selection-start-column="303" selection-end-line="322" selection-end-column="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3016">
+          <caret line="105" selection-end-line="105" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/product-list-filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19082">
+          <caret line="658" column="22" selection-start-line="658" selection-start-column="22" selection-end-line="658" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/my-account-ac-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4785">
+          <caret line="318" selection-start-line="318" selection-end-line="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/contact-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3654">
+          <caret line="126" column="70" selection-start-line="126" selection-start-column="70" selection-end-line="126" selection-end-column="70" />
+          <folding>
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../simpleshop/my-account-address.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5278">
+          <caret line="182" column="26" selection-start-line="182" selection-start-column="26" selection-end-line="182" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
